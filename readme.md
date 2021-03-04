@@ -1,3 +1,1 @@
-# Moved
-
-Development moved to [another repo](https://github.com/ymatuhin/whataweek).
+# Moved to [another repo](https://github.com/ymatuhin/whataweek).
